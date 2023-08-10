@@ -1,8 +1,9 @@
 export default function Footer() {
     return (
-        <div>
-            <p class="text-center pt-6 pb-12 text-lg leading-8 text-gray-600">
-            ^_^   ^_^   ^_^   ^_^</p>
+        <div className="flex justify-between">
+            <p className="text-lg leading-8 text-gray-600">aaa</p>
+            <p className="text-lg leading-8 text-gray-600">^_^</p>
+            <a href="#" className="text-lg leading-8 text-gray-600">Back to top</a>
         </div>
     )
 }
