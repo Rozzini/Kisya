@@ -7,7 +7,7 @@ export default function Portfolio() {
           
           <div className="col-span-2 row-span-2">
 
-            <div className="border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
+            <div className="aspect-square border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
               <a href="/webpages" className="">
                   <div class="md:text-2xl text-base text-black pt-4 pl-4 flex justify-left">
                       <h3 class="">WEBPAGES</h3>
@@ -16,10 +16,13 @@ export default function Portfolio() {
                       className="w-4 h-4 md:w-6 md:h-6"
                       alt="..." />
                   </div>
+                  <div className="h-full flex items-bottom justify-center">
                   <img
                     src="/Webpages.png"
                     className="pt-12"
                     alt="..." />
+
+                  </div>
               </a>
             </div>
            
@@ -29,18 +32,20 @@ export default function Portfolio() {
           <div className="col-span-2 row-span-2 col-start-3">
 
             <div className="h-full border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
-                <a href="/logos" className="">
-                  <div class="md:text-2xl text-base text-black pt-4 pl-4 flex justify-left">
-                      <h3 class="">LOGOS</h3>
+                <a href="/logos" className="h-full">
+                  <div className="md:text-2xl text-base text-black pt-4 pl-4 flex justify-left">
+                      <h3 className="">LOGOS</h3>
                       <img
                       src="/Arrow.png"
                       className="w-4 h-4 md:w-6 md:h-6"
                       alt="..." />
                   </div>
-                  <img
-                    src="/Logos.png"
-                    className="mx-auto"
-                    alt="..." />
+                  <div className="h-full flex items-center justify-center">
+                    <img
+                      src="/Logos.png"
+                      className="p-10"
+                      alt="..." />
+                  </div>
               </a>
               </div>
 
@@ -58,10 +63,12 @@ export default function Portfolio() {
                   className="w-4 h-4 md:w-6 md:h-6"
                   alt="..." />
               </div>
+              <div className="h-full flex items-center justify-center">
                 <img
                   src="/Projects.png"
-                  className="pt-12"
+                  className="p-10"
                   alt="..." />
+              </div>
             </a>
             </div>
 
@@ -79,10 +86,13 @@ export default function Portfolio() {
                   className="w-4 h-4 md:w-6 md:h-6"
                   alt="..." />
               </div>
+              <div className="h-full flex items-center justify-center">
                 <img
                   src="/Slides.png"
-                  className="pt-12"
+                  className="p-10"
                   alt="..." />
+
+              </div>
             </a>
             </div>
 
@@ -100,10 +110,13 @@ export default function Portfolio() {
                   className="w-4 h-4 md:w-6 md:h-6"
                   alt="..." />
               </div>
+              <div className="h-full flex items-center justify-center">
                 <img
                   src="/SocialMedia.png"
-                  className="pt-12"
+                  className="p-10"
                   alt="..." />
+
+              </div>
             </a>
             </div>
 
@@ -120,10 +133,13 @@ export default function Portfolio() {
                   className="w-4 h-4 md:w-6 md:h-6"
                   alt="..." />
               </div>
+              <div className="h-full flex items-center justify-center">
                 <img
                   src="/Icons.png"
-                  className="pt-12"
+                  className="p-10"
                   alt="..." />
+
+              </div>
             </a>
             </div>
           </div>
