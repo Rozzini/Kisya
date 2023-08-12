@@ -4,7 +4,7 @@ export default function Portfolio() {
     return (
 <section id="Portfolio">
 <div className="flex items-center justify-center">
-<div  className="max-w-screen-lg grid grid-cols-4 grid-rows-8 gap-2 md:gap-10">
+  <div  className="max-w-screen-lg grid grid-cols-4 grid-rows-8 gap-3 md:gap-10">
           
           <div className="col-span-2 row-span-2">
 
@@ -13,13 +13,13 @@ export default function Portfolio() {
                   <div class="md:text-2xl text-base text-black pt-1 pl-1 md:pt-4 md:pl-4 flex justify-left">
                       <h3 class="">WEBPAGES</h3>
                       <img
-                      src="/Arrow.png"
+                      src="/misc/Arrow.png"
                       className="w-4 h-4 md:w-6 md:h-6"
                       alt="..." />
                   </div>
                   <div className="h-full flex items-bottom justify-center">
                   <img
-                    src="/Webpages.png"
+                    src="/home/Webpages.png"
                     className="pt-2 md:pt-12"
                     alt="..." />
 
@@ -37,13 +37,13 @@ export default function Portfolio() {
                   <div className="md:text-2xl text-base text-black pt-1 pl-1 md:pt-4 md:pl-4 flex justify-left">
                       <h3 className="">LOGOS</h3>
                       <img
-                      src="/Arrow.png"
+                      src="/misc/Arrow.png"
                       className="w-4 h-4 md:w-6 md:h-6"
                       alt="..." />
                   </div>
                   <div className="h-full flex items-center justify-center">
                     <img
-                      src="/Logos.png"
+                      src="/home/Logos.png"
                       className="p-2 mb-6 md:p-10"
                       alt="..." />
                   </div>
@@ -60,13 +60,13 @@ export default function Portfolio() {
               <div class="md:text-2xl text-base text-black pt-1 pl-1 md:pt-4 md:pl-4 flex justify-left">
                   <h3 class="">PROJECTS</h3>
                   <img
-                  src="/Arrow.png"
+                  src="/misc/Arrow.png"
                   className="w-4 h-4 md:w-6 md:h-6"
                   alt="..." />
               </div>
               <div className="h-full flex items-center justify-center">
                 <img
-                  src="/Projects.png"
+                  src="/home/Projects.png"
                   className="p-10"
                   alt="..." />
               </div>
@@ -83,13 +83,13 @@ export default function Portfolio() {
               <div class="md:text-2xl text-base text-black pt-1 pl-1 md:pt-4 md:pl-4 flex justify-left">
                   <h3 class="">SLIDES</h3>
                   <img
-                  src="/Arrow.png"
+                  src="/misc/Arrow.png"
                   className="w-4 h-4 md:w-6 md:h-6"
                   alt="..." />
               </div>
               <div className="h-full flex items-center justify-center">
                 <img
-                  src="/Slides.png"
+                  src="/home/Slides.png"
                   className="p-1 md:p-8"
                   alt="..." />
 
@@ -107,13 +107,13 @@ export default function Portfolio() {
               <div class="md:text-2xl text-sm text-black pt-1 pl-1 md:pt-4 md:pl-4 flex justify-left">
                   <h3 class="">SOCIAL MEDIA</h3>
                   <img
-                  src="/Arrow.png"
+                  src="/misc/Arrow.png"
                   className="w-4 h-4 md:w-6 md:h-6"
                   alt="..." />
               </div>
               <div className="h-full flex items-center justify-center">
                 <img
-                  src="/SocialMedia.png"
+                  src="/home/SocialMedia.png"
                   className="p-1 md:p-8"
                   alt="..." />
 
@@ -130,13 +130,13 @@ export default function Portfolio() {
               <div class="md:text-2xl text-sm text-black pt-1 pl-1 md:pt-4 md:pl-4 flex justify-left">
                   <h3 class="">ICONS</h3>
                   <img
-                  src="/Arrow.png"
+                  src="/misc/Arrow.png"
                   className="w-4 h-4 md:w-6 md:h-6"
                   alt="..." />
               </div>
               <div className="h-full flex items-center justify-center">
                 <img
-                  src="/Icons.png"
+                  src="/home/Icons.png"
                   className="p-2 md:p-8"
                   alt="..." />
 
