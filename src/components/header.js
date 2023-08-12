@@ -1,7 +1,6 @@
 export default function Header() {
     return (
-    <div className="w-full flex justify-center">
-        <header class="hidden md:block sticky top-0 z-10 w-full xl:w-2/3 text-gray-700 bg-white border-b border-gray-100 shadow-md body-font">
+        <header class="hidden md:block sticky top-0 z-10 w-full  text-gray-700 bg-white border-b border-gray-100">
             <div class="container flex flex-col items-start justify-between p-6 mx-auto md:flex-row">
                 <a href="#" class="flex items-center mb-4 font-medium text-gray-900 title-font md:mb-0 hover:text-[#565656]">
                     AP
@@ -23,6 +22,5 @@ export default function Header() {
             </div>
         </header>
 
-    </div>
     )
 }
