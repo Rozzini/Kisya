@@ -3,7 +3,7 @@ import Image, { ImageProps } from 'next/image'
 export default function Portfolio() {
     return (
 <section id="Portfolio">
-<div  className="mx-auto max-w-screen-lg grid grid-cols-4 grid-rows-8 gap-4 md:gap-10 px-12">
+<div  className="mx-auto max-w-screen-lg grid grid-cols-4 grid-rows-8 gap-2 md:gap-10 px-12">
           
           <div className="col-span-2 row-span-2">
 
