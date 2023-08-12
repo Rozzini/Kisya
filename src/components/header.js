@@ -9,7 +9,7 @@ export default function Header() {
     return (
         <Popover class="sticky top-0 z-10 w-full  text-[#9D9D9D] bg-white border-b border-black">
             <div class="py-2 md:py-4 container flex items-center justify-between mx-auto md:flex-row">
-                <a href="#" class="font-medium text-gray-900 title-font md:mb-0 hover:text-[#565656]">
+                <a href="/" class="font-medium text-gray-900 title-font md:mb-0 hover:text-[#565656]">
                     AP
                 </a>
                 <nav class="hidden sm:flex flex-wraph-full  items-center justify-center pl-24 text-base md:ml-auto md:mr-auto">
@@ -47,7 +47,7 @@ export default function Header() {
                                     divide-y-2 divide-gray-50">
                             <div className="px-5 pt-5 pb-6">
                                 <div className="flex items-center justify-between">
-                                    <h1 className="text-black font-bold">AP</h1>
+                                <a href="/" className="text-black font-bold">AP</a>
                                     <div className="mr-2">
                                         <Popover.Button className="inline-flex items-center justify-center rounded-md
                                                                   bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500
