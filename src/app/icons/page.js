@@ -6,7 +6,7 @@ import Footer from "../../components/footer"
 
 export default function WEBPAGES() {
   return (
-    <main className="bg-white px-12">
+    <main className="bg-white px-4 md:px-12">
       <Header />
       <Hero />
       <div class="aspect-video">

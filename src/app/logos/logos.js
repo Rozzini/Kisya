@@ -1,24 +1,40 @@
+"use client"
+
+import { Popover, Transition } from "@headlessui/react"
+
 export default function Logos() {
     return (
 <section id="Logos">
-    <div className="flex flex-col">
+    <div className="flex flex-col items-center justify-center">
 
-        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-5 gap-4">
+        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-5 gap-3">
             
-            <div className="col-span-2 row-span-2">
-                <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
-                    <a href="/slides" className="">
-                        <div className="h-full flex items-center justify-center">
-                            <img
-                            src="/logos/logo1.png"
-                            className="p-1 md:p-8"
-                            alt="..." />
-                        </div>
-                    </a>
-                </div>
-            </div>
+            <Popover className="col-span-2 row-span-2">
+                <Popover.Button className="h-full">
+                    <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
+                            <div className="h-full flex items-center justify-center">
+                                <img
+                                src="/logos/logo1.png"
+                                className="p-1 md:p-8"
+                                alt="..." />
+                            </div>
+                    </div>
+                </Popover.Button>
+                <Popover.Overlay className="fixed inset-0 bg-black opacity-30"/>
+                    <Popover.Panel 
+                        className="absolute left-0 w-full flex justify-center items-center"
+                        >
+                            <div className="bg-white flex justify-center p-12">
+                                    <img
+                                    src="/logos/logo1.png"
+                                    className=""
+                                    alt="..." />
+                            </div>
+                    </Popover.Panel>
+            </Popover>
 
-            <div className="col-span-2 col-start-3">
+
+            <Popover className="col-span-2 col-start-3">
                 <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                     <a href="/slides" className="">
                         <div className="h-full flex items-center justify-center">
@@ -29,7 +45,7 @@ export default function Logos() {
                         </div>
                     </a>
                 </div>
-            </div>
+            </Popover>
 
             <div className="col-start-3 row-start-2">
                 <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
@@ -138,7 +154,7 @@ export default function Logos() {
         </div>
         
 
-        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-4 gap-4">
+        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-4 gap-3 pt-3">
             <div className="col-span-2 row-span-2">
                 <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                     <a href="/slides" className="">
@@ -245,7 +261,7 @@ export default function Logos() {
         </div>
 
 
-        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-5 gap-4">
+        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-5 gap-3 pt-3">
             <div >
                 <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                     <a href="/slides" className="">
