@@ -1,6 +1,11 @@
 "use client"
 
+
+import React from 'react';
+import Popup from 'reactjs-popup';
 import { Popover, Transition } from "@headlessui/react"
+
+const overlayStyle = { background: 'rgba(0,0,0,0.5)' };
 
 export default function Logos() {
     return (
@@ -9,32 +14,32 @@ export default function Logos() {
 
         <div className="max-w-screen-lg grid grid-cols-4 grid-rows-5 gap-3">
             
-            <Popover className="col-span-2 row-span-2">
-                <Popover.Button className="h-full">
-                    <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
+            <div className="col-span-2 row-span-2">
+                    <Popup  className="bg-black" trigger={
+                        <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo1.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
-                    </div>
-                </Popover.Button>
-                <Popover.Overlay className="fixed inset-0 bg-black opacity-30"/>
-                    <Popover.Panel 
-                        className="absolute left-0 w-full flex justify-center items-center"
-                        >
-                            <div className="bg-white flex justify-center p-12">
-                                    <img
-                                    src="/logos/logo1.png"
-                                    className=""
-                                    alt="..." />
-                            </div>
-                    </Popover.Panel>
-            </Popover>
+                        </div>}
+                        {...{overlayStyle}}
+                        modal
+                        lockScroll
+                    >
+
+                        <span className="w-full justify-center items-center">
+                            <img
+                            src="/logos/logo1.png"
+                            className="p-2 md:p-12 bg-white"
+                            alt="..." />
+                        </span>
+                    </Popup>
+            </div>
 
 
-            <Popover className="col-span-2 col-start-3">
+            <div className="col-span-2 col-start-3">
                 <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                     <a href="/slides" className="">
                         <div className="h-full flex items-center justify-center">
@@ -45,7 +50,7 @@ export default function Logos() {
                         </div>
                     </a>
                 </div>
-            </Popover>
+            </div>
 
             <div className="col-start-3 row-start-2">
                 <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
