@@ -59,9 +59,18 @@ export default function Header() {
                                 </div>
                                 <div className="mt-6">
                                     <nav className="grid gap-y-6">
-                                        <a href="#About" class="mr-5 font-medium hover:text-black">About</a>
-                                        <a href="#Portfolio" class="mr-5 font-medium hover:text-black">Portfolio</a>
+                                        <Popover.Button>
+                                        <a href="#About" class="font-medium hover:text-black">About</a>
+
+                                        </Popover.Button>
+                                        <Popover.Button>
+                                        <a href="#Portfolio" class="font-medium hover:text-black">Portfolio</a>
+                                            
+                                        </Popover.Button>
+                                        <Popover.Button>
                                         <a href="#Contact" class="font-medium hover:text-black">Contact</a>
+                                            
+                                        </Popover.Button>
                                     </nav>
                                 </div>
                                 <div className="mt-6">
