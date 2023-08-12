@@ -3,6 +3,7 @@ import Image, { ImageProps } from 'next/image'
 export default function Portfolio() {
     return (
 <section id="Portfolio">
+<div className="flex items-center justify-center">
 <div  className="max-w-screen-lg grid grid-cols-4 grid-rows-8 gap-2 md:gap-10">
           
           <div className="col-span-2 row-span-2">
@@ -143,6 +144,7 @@ export default function Portfolio() {
             </a>
             </div>
           </div>
+      </div>
       </div>
 </section>
 
