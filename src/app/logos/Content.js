@@ -1,9 +1,7 @@
 "use client"
 
-
 import React from 'react';
 import Popup from 'reactjs-popup';
-import { Popover, Transition } from "@headlessui/react"
 
 const overlayStyle = { background: 'rgba(0,0,0,0.5)' };
 

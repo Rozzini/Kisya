@@ -1,4 +1,4 @@
-import Logos from "./logos"
+import Content from "./Content"
 import Header    from "../../components/pageHeader"
 import Hero      from "./hero"
 import Contact from "../../components/contact"
@@ -9,7 +9,7 @@ export default function icons() {
     <main className="bg-white px-4 md:px-12">
       <Header />
       <Hero />
-      <Logos />
+      <Content />
       <Contact />
       <Footer />
     </main>
