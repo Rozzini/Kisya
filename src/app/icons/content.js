@@ -202,7 +202,7 @@ export default function Content() {
                         lockScroll
                     >
 
-                        <span className="w-full justify-center items-center bg-white">
+                        <span className="w-full justify-center  items-center bg-white">
                             <img
                             src="/webpages/webpage8.png"
                             className="p-1 md:p-8 bg-white"
