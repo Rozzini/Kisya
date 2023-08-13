@@ -4,7 +4,7 @@ export default function Hero() {
 <section id="About" >
     <div className="w-full flex justify-center py-12">
         <div className="max-w-screen-lg w-full flex justify-left">
-            <h1 className="text-4xl font-bold tracking-tight text-black sm:text-6xl">WEBPAGES</h1>
+            <h1 className="text-4xl font-bold tracking-tight text-black sm:text-6xl">SLIDES</h1>
         </div>
     </div>
 </section>

@@ -44,7 +44,7 @@ export default function Portfolio() {
                   <div className="h-full flex items-center justify-center">
                     <img
                       src="/home/Logos.png"
-                      className="p-2 mb-6 md:p-10"
+                      className="p-2 mb-6 md:p-16"
                       alt="..." />
                   </div>
               </a>

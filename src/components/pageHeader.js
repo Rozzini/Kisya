@@ -7,7 +7,7 @@ import { Fragment } from "react"
 
 export default function Header() {
     return (
-        <Popover class="sticky top-0  w-full  text-[#9D9D9D] bg-white border-b border-black">
+        <Popover class="sticky top-0 z-10 w-full  text-[#9D9D9D] bg-white border-b border-black">
         <div class="py-2 md:py-4 container flex items-center justify-between mx-auto md:flex-row">
             <a href="/" class="font-medium text-gray-900 title-font md:mb-0 hover:text-[#565656]">
                 AP
