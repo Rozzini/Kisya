@@ -11,7 +11,7 @@ export default function Content() {
 <section id="Logos">
     <div className="flex flex-col items-center justify-center">
 
-    <div className="max-w-screen-lg grid grid-cols-2 grid-rows-7 gap-4">
+    <div className="max-w-screen-lg grid grid-cols-2 grid-rows-7 gap-3 md:gap-8">
         <div >
             <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
