@@ -11,13 +11,14 @@ export default function Content() {
 <section id="Logos">
     <div className="flex flex-col items-center justify-center">
 
-    <div className="max-w-screen-lg grid grid-cols-2 grid-rows-7 gap-4">
-        <div >
-            <Popup trigger={
+        
+        <div className="max-w-screen-lg grid grid-cols-2 grid-rows-5 gap-4">
+            <div className="col-span-2">
+                <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/webpages/webpage1.png"
+                                src="/projects/project1.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -27,22 +28,61 @@ export default function Content() {
                         lockScroll
                     >
 
-                        <span className="w-full justify-center items-center bg-white">
+                        {close => (
+                        <div className="w-full relative justify-center items-center bg-white">
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] " onClick={close}>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
+                                </svg>
+                            </div>
                             <img
-                            src="/webpages/webpage1.png"
-                            className="p-1 md:p-8 bg-white"
+                            src="/projects/project1.png"
+                            className="p-4 md:p-16 bg-white"
                             alt="..." />
-                        </span>
-
+                        </div>
+                    )}
                     </Popup>
-        </div>
+            </div>
 
-        <div >
+
+            <div className="row-start-2">
+                <Popup trigger={
+                        <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
+                            <div className="h-full flex items-center justify-center">
+                                <img
+                                src="/projects/project2.png"
+                                className="p-1 md:p-8"
+                                alt="..." />
+                            </div>
+                        </div>}
+                        {...{overlayStyle}}
+                        modal
+                        lockScroll
+                    >
+
+                        {close => (
+                        <div className="w-full relative justify-center items-center bg-white">
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] " onClick={close}>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
+                                </svg>
+                            </div>
+                            <img
+                            src="/projects/project2.png"
+                            className="p-4 md:p-16 bg-white"
+                            alt="..." />
+                        </div>
+                    )}
+                    </Popup>
+            </div>
+
+
+            <div className="row-start-2">
                     <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/webpages/webpage2.png"
+                                src="/projects/project3.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -52,22 +92,28 @@ export default function Content() {
                         lockScroll
                     >
 
-                        <span className="w-full justify-center items-center bg-white">
+                        {close => (
+                        <div className="w-full relative justify-center items-center bg-white">
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] " onClick={close}>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
+                                </svg>
+                            </div>
                             <img
-                            src="/webpages/webpage2.png"
-                            className="p-1 md:p-8 bg-white"
+                            src="/projects/project3.png"
+                            className="p-4 md:p-16 bg-white"
                             alt="..." />
-                        </span>
-
+                        </div>
+                    )}
                     </Popup>
-        </div>
+            </div>
 
-        <div >
-                   <Popup trigger={
+            <div className="col-span-2">
+                <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/webpages/webpage3.png"
+                                src="/projects/project4.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -77,22 +123,28 @@ export default function Content() {
                         lockScroll
                     >
 
-                        <span className="w-full justify-center items-center bg-white">
+                        {close => (
+                        <div className="w-full relative justify-center items-center bg-white">
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] " onClick={close}>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
+                                </svg>
+                            </div>
                             <img
-                            src="/webpages/webpage3.png"
-                            className="p-1 md:p-8 bg-white"
+                            src="/projects/project4.png"
+                            className="p-4 md:p-16 bg-white"
                             alt="..." />
-                        </span>
+                        </div>
+                    )}
+                    </Popup>
+            </div>
 
-                    </Popup>     
-        </div>
-
-        <div >
-                    <Popup trigger={
+            <div className="col-span-2 row-start-4">
+                <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/webpages/webpage4.png"
+                                src="/projects/project5.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -102,22 +154,28 @@ export default function Content() {
                         lockScroll
                     >
 
-                        <span className="w-full justify-center items-center bg-white">
+                        {close => (
+                        <div className="w-full relative justify-center items-center bg-white">
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] " onClick={close}>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
+                                </svg>
+                            </div>
                             <img
-                            src="/webpages/webpage4.png"
-                            className="p-1 md:p-8 bg-white"
+                            src="/projects/project5.png"
+                            className="p-4 md:p-16 bg-white"
                             alt="..." />
-                        </span>
-
+                        </div>
+                    )}
                     </Popup>
-        </div>
+            </div>
 
-        <div >
-                        <Popup trigger={
+            <div className="row-start-5">
+                <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/webpages/webpage5.png"
+                                src="/projects/project6.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -127,22 +185,28 @@ export default function Content() {
                         lockScroll
                     >
 
-                        <span className="w-full justify-center items-center bg-white">
+                       {close => (
+                        <div className="w-full relative justify-center items-center bg-white">
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] " onClick={close}>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
+                                </svg>
+                            </div>
                             <img
-                            src="/webpages/webpage5.png"
-                            className="p-1 md:p-8 bg-white"
+                            src="/projects/project6.png"
+                            className="p-4 md:p-16 bg-white"
                             alt="..." />
-                        </span>
-
+                        </div>
+                    )}
                     </Popup>
-        </div>
+            </div>
 
-        <div >
-            <Popup trigger={
+            <div className="row-start-5">
+                <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/webpages/webpage6.png"
+                                src="/projects/project6.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -152,217 +216,22 @@ export default function Content() {
                         lockScroll
                     >
 
-                        <span className="w-full justify-center items-center bg-white">
-                            <img
-                            src="/webpages/webpage6.png"
-                            className="p-1 md:p-8 bg-white"
-                            alt="..." />
-                        </span>
-
-                    </Popup>
-        </div>
-
-        <div >
-            <Popup trigger={
-                        <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
-                            <div className="h-full flex items-center justify-center">
-                                <img
-                                src="/webpages/webpage7.png"
-                                className="p-1 md:p-8"
-                                alt="..." />
+                        {close => (
+                        <div className="w-full relative justify-center items-center bg-white">
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] " onClick={close}>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
+                                </svg>
                             </div>
-                        </div>}
-                        {...{overlayStyle}}
-                        modal
-                        lockScroll
-                    >
-
-                        <span className="w-full justify-center items-center bg-white">
                             <img
-                            src="/webpages/webpage7.png"
-                            className="p-1 md:p-8 bg-white"
+                            src="/projects/project6.png"
+                            className="p-4 md:p-16 bg-white"
                             alt="..." />
-                        </span>
-
+                        </div>
+                    )}
                     </Popup>
+            </div>
         </div>
-
-        <div >
-            <Popup trigger={
-                        <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
-                            <div className="h-full flex items-center justify-center">
-                                <img
-                                src="/webpages/webpage8.png"
-                                className="p-1 md:p-8"
-                                alt="..." />
-                            </div>
-                        </div>}
-                        {...{overlayStyle}}
-                        modal
-                        lockScroll
-                    >
-
-                        <span className="w-full justify-center items-center bg-white">
-                            <img
-                            src="/webpages/webpage8.png"
-                            className="p-1 md:p-8 bg-white"
-                            alt="..." />
-                        </span>
-
-                    </Popup>
-        </div>
-
-        <div >
-            <Popup trigger={
-                        <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
-                            <div className="h-full flex items-center justify-center">
-                                <img
-                                src="/webpages/webpage9.png"
-                                className="p-1 md:p-8"
-                                alt="..." />
-                            </div>
-                        </div>}
-                        {...{overlayStyle}}
-                        modal
-                        lockScroll
-                    >
-
-                        <span className="w-full justify-center items-center bg-white">
-                            <img
-                            src="/webpages/webpage9.png"
-                            className="p-1 md:p-8 bg-white"
-                            alt="..." />
-                        </span>
-
-                    </Popup>
-        </div>
-
-        <div >
-            <Popup trigger={
-                        <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
-                            <div className="h-full flex items-center justify-center">
-                                <img
-                                src="/webpages/webpage10.png"
-                                className="p-1 md:p-8"
-                                alt="..." />
-                            </div>
-                        </div>}
-                        {...{overlayStyle}}
-                        modal
-                        lockScroll
-                    >
-
-                        <span className="w-full justify-center items-center bg-white">
-                            <img
-                            src="/webpages/webpage10.png"
-                            className="p-1 md:p-8 bg-white"
-                            alt="..." />
-                        </span>
-
-                    </Popup>
-        </div>
-
-        <div >
-            <Popup trigger={
-                        <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
-                            <div className="h-full flex items-center justify-center">
-                                <img
-                                src="/webpages/webpage11.png"
-                                className="p-1 md:p-8"
-                                alt="..." />
-                            </div>
-                        </div>}
-                        {...{overlayStyle}}
-                        modal
-                        lockScroll
-                    >
-
-                        <span className="w-full justify-center items-center bg-white">
-                            <img
-                            src="/webpages/webpage11.png"
-                            className="p-1 md:p-8 bg-white"
-                            alt="..." />
-                        </span>
-
-                    </Popup>
-        </div>
-
-        <div >
-            <Popup trigger={
-                        <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
-                            <div className="h-full flex items-center justify-center">
-                                <img
-                                src="/webpages/webpage12.png"
-                                className="p-1 md:p-8"
-                                alt="..." />
-                            </div>
-                        </div>}
-                        {...{overlayStyle}}
-                        modal
-                        lockScroll
-                    >
-
-                        <span className="w-full justify-center items-center bg-white">
-                            <img
-                            src="/webpages/webpage12.png"
-                            className="p-1 md:p-8 bg-white"
-                            alt="..." />
-                        </span>
-
-                    </Popup>
-        </div>
-
-        <div >
-            <Popup trigger={
-                        <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
-                            <div className="h-full flex items-center justify-center">
-                                <img
-                                src="/webpages/webpage13.png"
-                                className="p-1 md:p-8"
-                                alt="..." />
-                            </div>
-                        </div>}
-                        {...{overlayStyle}}
-                        modal
-                        lockScroll
-                    >
-
-                        <span className="w-full justify-center items-center bg-white">
-                            <img
-                            src="/webpages/webpage13.png"
-                            className="p-1 md:p-8 bg-white"
-                            alt="..." />
-                        </span>
-
-                    </Popup>
-        </div>
-
-        <div >
-            <Popup trigger={
-                        <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
-                            <div className="h-full flex items-center justify-center">
-                                <img
-                                src="/webpages/webpage14.png"
-                                className="p-1 md:p-8"
-                                alt="..." />
-                            </div>
-                        </div>}
-                        {...{overlayStyle}}
-                        modal
-                        lockScroll
-                    >
-
-                        <span className="w-full justify-center items-center bg-white">
-                            <img
-                            src="/webpages/webpage14.png"
-                            className="p-1 md:p-8 bg-white"
-                            alt="..." />
-                        </span>
-
-                    </Popup>
-        </div>
-    </div>
-
     </div>
     
 </section>

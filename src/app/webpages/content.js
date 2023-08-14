@@ -28,11 +28,11 @@ export default function Content() {
                     >
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage1.png"
                             className="p-1 md:p-8 bg-white"
@@ -59,11 +59,11 @@ export default function Content() {
 
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage2.png"
                             className="p-1 md:p-8 bg-white"
@@ -90,11 +90,11 @@ export default function Content() {
 
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage3.png"
                             className="p-1 md:p-8 bg-white"
@@ -121,11 +121,11 @@ export default function Content() {
                     
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage4.png"
                             className="p-1 md:p-8 bg-white"
@@ -152,11 +152,11 @@ export default function Content() {
                     
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage5.png"
                             className="p-1 md:p-8 bg-white"
@@ -183,11 +183,11 @@ export default function Content() {
 
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage6.png"
                             className="p-1 md:p-8 bg-white"
@@ -214,11 +214,11 @@ export default function Content() {
 
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage7.png"
                             className="p-1 md:p-8 bg-white"
@@ -245,11 +245,11 @@ export default function Content() {
 
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage8.png"
                             className="p-1 md:p-8 bg-white"
@@ -276,11 +276,11 @@ export default function Content() {
 
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage9.png"
                             className="p-1 md:p-8 bg-white"
@@ -307,11 +307,11 @@ export default function Content() {
 
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage10.png"
                             className="p-1 md:p-8 bg-white"
@@ -338,11 +338,11 @@ export default function Content() {
 
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage11.png"
                             className="p-1 md:p-8 bg-white"
@@ -369,11 +369,11 @@ export default function Content() {
 
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage12.png"
                             className="p-1 md:p-8 bg-white"
@@ -400,11 +400,11 @@ export default function Content() {
 
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage13.png"
                             className="p-1 md:p-8 bg-white"
@@ -431,11 +431,11 @@ export default function Content() {
 
                     {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <button className="absolute top-2 right-2" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
-                            </button>
+                            </div>
                             <img
                             src="/webpages/webpage14.png"
                             className="p-1 md:p-8 bg-white"
