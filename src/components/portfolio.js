@@ -4,9 +4,10 @@ export default function Portfolio() {
     return (
 <section id="Portfolio">
 <div className="flex items-center justify-center">
-  <div  className="max-w-screen-lg grid grid-cols-4 grid-rows-5 gap-3 md:gap-10">
+    <div  className="max-w-screen-lg grid grid-cols-4 grid-rows-5 gap-3 md:gap-10">
           
           <div className="col-span-2 row-span-2">
+            <a href="/logos" className="h-full">
               <div className="h-full relative rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                 <div className="h-full flex items-center justify-center">
                     <img
@@ -21,6 +22,8 @@ export default function Portfolio() {
                     </svg>
                 </div>
               </div>
+            </a>          
+          </div>
 
 
             {/* <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
@@ -41,7 +44,6 @@ export default function Portfolio() {
               </a>
             </div> */}
            
-          </div>
 
 
           <div className="col-span-2 row-span-2 col-start-3">
