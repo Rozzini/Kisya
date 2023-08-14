@@ -106,7 +106,7 @@ export default function Portfolio() {
               <div className="h-full flex items-center justify-center">
                 <img
                   src="/home/SocialMedia.png"
-                  className="p-1 md:p-8"
+                  className="p-4 md:p-8"
                   alt="..." />
 
               </div>
@@ -129,7 +129,7 @@ export default function Portfolio() {
               <div className="h-full flex items-center justify-center">
                 <img
                   src="/home/Icons.png"
-                  className="p-2 md:p-8"
+                  className="p-4 md:p-8"
                   alt="..." />
 
               </div>
