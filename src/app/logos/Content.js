@@ -144,7 +144,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo5.png"
-                                className="p-2 md:p-6 w-32"
+                                className="p-2 md:p-6 w-16 md:w-28"
                                 alt="..." />
                             </div>
                             
@@ -269,7 +269,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo9.png"
-                                className="p-2 md:p-6 w-32"
+                                className="p-2 md:p-6 w-16 md:w-28"
                                 alt="..." />
                             </div>
                             
@@ -301,7 +301,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo10.png"
-                                className="p-2 md:p-6 w-32"
+                                className="p-2 md:p-6 w-16 md:w-28"
                                 alt="..." />
                             </div>
                             
@@ -330,14 +330,14 @@ export default function Logos() {
         </div>
         
 
-        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-4 gap-2 md:gap-6 pt-6">
+        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-4 gap-2 md:gap-6 pt-2 md:pt-6">
             <div className="col-span-2 row-span-2">
                 <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo11.png"
-                                className="p-2 md:p-6 w-56"
+                                className="p-2 md:p-6 w-32 md:w-56"
                                 alt="..." />
                             </div>
                         </div>}
@@ -368,7 +368,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo12.png"
-                                className="p-2 md:p-6 w-56"
+                                className="p-2 md:p-6 w-40 md:w-56"
                                 alt="..." />
                             </div>
                         </div>}
@@ -399,7 +399,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo13.png"
-                                className="p-4 md:p-14 lg:p-20 w-64"
+                                className="p-4 md:p-14 lg:p-20 w-16 md:w-64"
                                 alt="..." />
                             </div>
                         </div>}
@@ -430,7 +430,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo14.png"
-                                className="p-4 md:p-14 lg:p-20 w-64"
+                                className="p-4 md:p-14 lg:p-20 w-16 md:w-64"
                                 alt="..." />
                             </div>
                         </div>}
@@ -461,7 +461,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo15.png"
-                                className="p-4 md:p-14 lg:p-20 w-64"
+                                className="p-4 md:p-14 lg:p-20 w-16 md:w-64"
                                 alt="..." />
                             </div>
                         </div>}
@@ -492,7 +492,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo16.png"
-                                className="p-4 md:p-14 lg:p-20 w-64"
+                                className="p-4 md:p-8 lg:p-20 w-56"
                                 alt="..." />
                             </div>
                             
@@ -524,7 +524,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo17.png"
-                                className="p-2 md:p-6 w-56"
+                                className="p-2 md:p-6 w-24 sm:w-56"
                                 alt="..." />
                             </div>
                             
@@ -556,7 +556,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo18.png"
-                                className="p-2 md:p-6 w-32"
+                                className="p-2 md:p-6 w-16 md:w-32"
                                 alt="..." />
                             </div>
                         </div>}
@@ -583,7 +583,7 @@ export default function Logos() {
         </div>
 
 
-        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-4 gap-2 md:gap-6 pt-6">
+        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-4 gap-2 md:gap-6 pt-2 md:pt-6">
             <div>
                 <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
@@ -745,7 +745,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo24.png"
-                                className="p-2 md:p-6 w-32"
+                                className="p-2 md:p-6 w-16 md:w-32"
                                 alt="..." />
                             </div>
                             
@@ -777,7 +777,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo25.png"
-                                className="p-2 md:p-6 w-32"
+                                className="p-2 md:p-6 w-16 md:w-32"
                                 alt="..." />
                             </div>
                         </div>}
@@ -808,7 +808,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo26.png"
-                                className="p-2 md:p-6 w-32"
+                                className="p-2 md:p-6 w-16 md:w-32"
                                 alt="..." />
                             </div>
                         </div>}
@@ -839,7 +839,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo27.png"
-                                className="p-2 md:p-6 w-36"
+                                className="p-2 md:p-6 w-24 md:w-32"
                                 alt="..." />
                             </div>
                         </div>}
@@ -870,7 +870,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo28.png"
-                                className="p-2 md:p-6 w-36"
+                                className="p-2 md:p-6 w-24 md:w-32"
                                 alt="..." />
                             </div>
                         </div>}
