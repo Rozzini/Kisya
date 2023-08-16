@@ -9,11 +9,13 @@ export default function Hero() {
     </div>
     <div className="w-full flex justify-center py-12">
         <div className="rounded border border-[#9d9d9d] max-w-screen-lg w-full flex-col justify-center pt-12 pb-4">
-            <p className="pt-4 md:pt-20 text-lg text-center leading-8 text-gray-600 px-2 md:px-8">
-                I've worked on a huge number of logos / logos animation with 
-                Flexn and React Seals, remotely or in-house</p>
-            <p className="pb-4 md:pb-20 pt-4 text-lg text-center leading-8 text-gray-600">
-                The nature of this work is confidential</p>
+        <p className="pt-4 md:pt-20 text-lg text-center leading-8 text-gray-600 px-2 md:px-8">
+                I've worked on a huge number of icons with 
+                Flexn and React Seals, remotely or in-house.</p>
+            <p className="pb-4 text-lg text-center leading-8 text-gray-600">
+                The nature of this work is confidential.</p>
+            <p className="pb-4 md:pb-20 text-lg text-center leading-8 text-gray-600">
+                However, I can provide a description of the work I've done.</p>
         </div>
     </div>
 </section>

@@ -30,13 +30,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo1.png"
+                            src="/logos/x2/x2logo1.png"
                             className="p-8 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -62,13 +62,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo2.png"
+                            src="/logos/x2/x2logo2.png"
                             className="p-8 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -93,13 +93,13 @@ export default function Logos() {
 
                          {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo3.png"
+                            src="/logos/x2/x2logo3.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -124,13 +124,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo4.png"
+                            src="/logos/x2/x2logo4.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -156,13 +156,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo5.png"
+                            src="/logos/x2/x2logo5.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -187,13 +187,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo6.png"
+                            src="/logos/x2/x2logo6.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -218,13 +218,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo7.png"
+                            src="/logos/x2/x2logo7.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -249,13 +249,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo8.png"
+                            src="/logos/x2/x2logo8.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -281,13 +281,13 @@ export default function Logos() {
 
                        {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo9.png"
+                            src="/logos/x2/x2logo9.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -313,13 +313,13 @@ export default function Logos() {
 
                        {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo10.png"
+                            src="/logos/x2/x2logo10.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -348,13 +348,13 @@ export default function Logos() {
 
                        {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo11.png"
+                            src="/logos/x2/x2logo11.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -379,13 +379,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo12.png"
+                            src="/logos/x2/x2logo12.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -410,13 +410,13 @@ export default function Logos() {
 
                        {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo13.png"
+                            src="/logos/x2/x2logo13.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -441,13 +441,13 @@ export default function Logos() {
 
                        {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo14.png"
+                            src="/logos/x2/x2logo14.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -472,13 +472,13 @@ export default function Logos() {
 
                        {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo15.png"
+                            src="/logos/x2/x2logo15.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -504,13 +504,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo16.png"
+                            src="/logos/x2/x2logo16.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -536,13 +536,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo17.png"
+                            src="/logos/x2/x2logo17.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -567,13 +567,13 @@ export default function Logos() {
 
                        {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo18.png"
+                            src="/logos/x2/x2logo18.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -601,13 +601,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo19.png"
+                            src="/logos/x2/x2logo19.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -632,13 +632,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo20.png"
+                            src="/logos/x2/x2logo20.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -663,13 +663,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo21.png"
+                            src="/logos/x2/x2logo21.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -694,13 +694,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo22.png"
+                            src="/logos/x2/x2logo22.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -725,13 +725,13 @@ export default function Logos() {
 
                        {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo23.png"
+                            src="/logos/x2/x2logo23.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -757,13 +757,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo24.png"
+                            src="/logos/x2/x2logo24.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -788,13 +788,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo25.png"
+                            src="/logos/x2/x2logo25.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -819,13 +819,13 @@ export default function Logos() {
 
                        {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo26.png"
+                            src="/logos/x2/x2logo26.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -850,13 +850,13 @@ export default function Logos() {
 
                        {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo27.png"
+                            src="/logos/x2/x2logo27.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -881,13 +881,13 @@ export default function Logos() {
 
                         {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo28.png"
+                            src="/logos/x2/x2logo28.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -912,13 +912,13 @@ export default function Logos() {
 
                        {close => (
                         <div className="w-full relative justify-center items-center bg-white">
-                            <div className="hover:cursor-pointer absolute top-[-30px] right-1 md:top-[-30px] md:right-[-30px]" onClick={close}>
+                            <div className="hover:cursor-pointer absolute top-1 right-1" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
                                 </svg>
                             </div>
                             <img
-                            src="/logos/logo29.png"
+                            src="/logos/x2/x2logo29.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
