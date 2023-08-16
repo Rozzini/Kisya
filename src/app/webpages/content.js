@@ -17,7 +17,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage1.png"
+                                src="./Webpage1.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -33,7 +33,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage1.png"
+                            src="./Webpage1.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
@@ -46,7 +46,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage2.png"
+                                src="./Webpage2.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -64,7 +64,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage2.png"
+                            src="./Webpage2.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
@@ -77,7 +77,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage3.png"
+                                src="./Webpage3.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -95,7 +95,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage3.png"
+                            src="./Webpage3.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
@@ -108,7 +108,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage4.png"
+                                src="./Webpage4.png"
                                 className="pt-8"
                                 alt="..." />
                             </div>
@@ -126,7 +126,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage4.png"
+                            src="./Webpage4.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
@@ -139,7 +139,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage5.png"
+                                src="./Webpage5.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -157,7 +157,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage5.png"
+                            src="./Webpage5.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
@@ -170,7 +170,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage6.png"
+                                src="./Webpage6.png"
                                 className=""
                                 alt="..." />
                             </div>
@@ -188,7 +188,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage6.png"
+                            src="./Webpage6.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
@@ -201,7 +201,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage7.png"
+                                src="./Webpage7.png"
                                 className="pt-12"
                                 alt="..." />
                             </div>
@@ -219,7 +219,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage7.png"
+                            src="./Webpage7.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
@@ -232,7 +232,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage8.png"
+                                src="./Webpage8.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -250,7 +250,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage8.png"
+                            src="./Webpage8.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
@@ -263,7 +263,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage9.png"
+                                src="./Webpage9.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -281,7 +281,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage9.png"
+                            src="./Webpage9.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
@@ -294,7 +294,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage10.png"
+                                src="./Webpage10.png"
                                 className="pt-12 px-12"
                                 alt="..." />
                             </div>
@@ -312,7 +312,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage10.png"
+                            src="./Webpage10.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
@@ -325,7 +325,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage11.png"
+                                src="./Webpage11.png"
                                 className=""
                                 alt="..." />
                             </div>
@@ -343,7 +343,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage11.png"
+                            src="./Webpage11.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
@@ -356,7 +356,7 @@ export default function Content() {
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Webpages/Webpage12.png"
+                                src="./Webpage12.png"
                                 className="p-1 md:p-8"
                                 alt="..." />
                             </div>
@@ -374,7 +374,7 @@ export default function Content() {
                                 </svg>
                             </div>
                             <img
-                            src="/Webpages/Webpage12.png"
+                            src="./Webpage12.png"
                             className="p-1 md:p-8 bg-white"
                             alt="..." />
                         </div>
