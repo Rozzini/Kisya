@@ -36,7 +36,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo1.png"
+                            src="/images/logo1.png"
                             className="p-8 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -68,7 +68,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo2.png"
+                            src="/images/logo2.png"
                             className="p-8 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -99,7 +99,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo3.png"
+                            src="/images/logo3.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -130,7 +130,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo4.png"
+                            src="/images/logo4.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -162,7 +162,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo5.png"
+                            src="/images/logo5.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -193,7 +193,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo6.png"
+                            src="/images/logo6.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -224,7 +224,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo7.png"
+                            src="/images/logo7.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -255,7 +255,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo8.png"
+                            src="/images/logo8.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -287,7 +287,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo9.png"
+                            src="/images/logo9.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -319,7 +319,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo10.png"
+                            src="/images/logo10.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -354,7 +354,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo11.png"
+                            src="/images/logo11.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -385,7 +385,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo12.png"
+                            src="/images/logo12.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -416,7 +416,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo13.png"
+                            src="/images/logo13.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -447,7 +447,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo14.png"
+                            src="/images/logo14.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -478,7 +478,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo15.png"
+                            src="/images/logo15.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -510,7 +510,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo16.png"
+                            src="/images/logo16.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -542,7 +542,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo17.png"
+                            src="/images/logo17.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -573,7 +573,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo18.png"
+                            src="/images/logo18.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -607,7 +607,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo19.png"
+                            src="/images/logo19.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -638,7 +638,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo20.png"
+                            src="/images/logo20.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -669,7 +669,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo21.png"
+                            src="/images/logo21.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -700,7 +700,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo22.png"
+                            src="/images/logo22.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -731,7 +731,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo23.png"
+                            src="/images/logo23.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -763,7 +763,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo24.png"
+                            src="/images/logo24.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -794,7 +794,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo25.png"
+                            src="/images/logo25.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -825,7 +825,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo26.png"
+                            src="/images/logo26.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -856,7 +856,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo27.png"
+                            src="/images/logo27.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -887,7 +887,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo28.png"
+                            src="/images/logo28.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>
@@ -918,7 +918,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/logos/x2/logo29.png"
+                            src="/images/logo29.png"
                             className="p-4 md:p-16 bg-white"
                             alt="..." />
                         </div>

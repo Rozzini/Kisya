@@ -13,7 +13,7 @@ export default function Hero() {
                 I've worked on a huge number of logos / logos animation with 
                 Flexn and React Seals, remotely or in-house.</p>
             <p className="pb-4 md:pb-20 pt-4 text-lg text-center leading-8 text-gray-600">
-                The nature of this work is confidential.SAD</p>
+                The nature of this work is confidential.ASD</p>
         </div>
     </div>
 </section>
