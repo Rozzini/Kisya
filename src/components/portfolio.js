@@ -32,7 +32,7 @@ export default function Portfolio() {
                   <div className="h-full flex items-center justify-center">
                     <img
                       src="/home/Logos.png"
-                      className="p-2 mb-6 md:p-16"
+                      className="p-6 md:p-14"
                       alt="..." />
                   </div>
                   <div className="absolute top-2 left-4 md:top-4 md:right-4 flex">
@@ -53,7 +53,7 @@ export default function Portfolio() {
                 <div className="flex items-center justify-center">
                   <img
                     src="/home/Projects.png"
-                    className="pt-12 px-4"
+                    className="pt-16 md:pt-32 px-4"
                     alt="..." />
                 </div>
                 <div className="absolute top-2 left-4 md:top-4 md:right-4 flex">
@@ -73,7 +73,7 @@ export default function Portfolio() {
                   <div className="h-full flex items-center justify-center">
                     <img
                       src="/home/Icons.png"
-                      className="p-2"
+                      className="p-2 md:p-8"
                       alt="..." />
                   </div>
                   <div className="absolute top-2 left-4 md:top-4 md:right-4 flex">
@@ -93,7 +93,7 @@ export default function Portfolio() {
                     <div className="h-full flex items-center justify-center">
                       <img
                         src="/home/SocialMedia.png"
-                        className=""
+                        className="pt-4"
                         alt="..." />
                     </div>
                     <div className="absolute top-2 left-4 md:top-4 md:right-4 flex">
