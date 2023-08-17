@@ -17,7 +17,7 @@ export default function Logos() {
                         <div className="h-full relative rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
-                                src="/Biglogo1.png"
+                                src="/logos/logo1.png"
                                 className="p-2 md:p-6 w-64"
                                 alt="..." />
                             </div>
@@ -36,7 +36,7 @@ export default function Logos() {
                                 </svg>
                             </div>
                             <img
-                            src="/Biglogo1.png"
+                            src="/logos/logo1.png"
                             className="p-8 md:p-16 bg-white"
                             alt="..." />
                         </div>
