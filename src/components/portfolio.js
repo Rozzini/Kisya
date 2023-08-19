@@ -12,7 +12,7 @@ export default function Portfolio() {
                 <div className="h-full flex items-center justify-center">
                     <img
                     src="/home/Webpages.png"
-                    className="md:pt-28 pt-4"
+                    className="absolute bottom-0 pr-8 lg:pr-20"
                     alt="..." />
                 </div>
                 <div className="absolute top-2 left-4 md:top-4 md:right-4 flex">
