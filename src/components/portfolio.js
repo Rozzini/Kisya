@@ -4,7 +4,7 @@ export default function Portfolio() {
     return (
 <section id="Portfolio">
 <div className="flex items-center justify-center">
-    <div  className="max-w-screen-xl w-full grid grid-cols-4 grid-rows-5 gap-3 md:gap-10">
+    <div  className="max-w-screen-2xl w-full grid grid-cols-4 grid-rows-5 gap-3 md:gap-10">
           
           <div className="col-span-2 row-span-2">
             <a href="/webpages" className="h-full">
