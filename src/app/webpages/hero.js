@@ -7,7 +7,7 @@ export default function Hero() {
             <h1 className="text-4xl font-bold tracking-tight text-black sm:text-7xl">WEBPAGES</h1>
         </div>
     </div>
-    <div className="w-full flex justify-center pb-5 md:pb-12">
+    <div className="w-full flex justify-center pb-4 md:pb-8">
         <div className="text-base md:text-xl rounded border border-[#9d9d9d] max-w-screen-2xl w-full flex-col justify-center ">
             <p className="pt-12 md:pt-20 text-center leading-8 text-gray-600 px-2 md:px-8">
                 I've worked on a huge number of webpages with 
