@@ -16,14 +16,3 @@ export default function webpages() {
     </main>
   )
 }
-
-
-{/* <div class="aspect-video">
-    <iframe
-      class="w-full h-full"
-      src="/VideoTest.mp4"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div> */}

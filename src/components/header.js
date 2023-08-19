@@ -7,8 +7,9 @@ import { Fragment } from "react"
 
 export default function Header() {
     return (
-        <Popover class="sticky top-0 z-10 w-full  text-[#9D9D9D] bg-white border-b border-[#9D9D9D]">
-            <div class="py-2 md:py-4 container flex items-center justify-between mx-auto md:flex-row">
+    <div className="w-full flex justify-center">
+        <Popover class="sticky top-0 z-10 max-w-screen-2xl w-full  text-[#9D9D9D] bg-white border-b border-[#9D9D9D]">
+            <div class="py-2 md:py-4 flex justify-between">
                 <a href="/" class="font-medium text-gray-900 title-font md:mb-0 hover:text-[#565656]">
                     AP
                 </a>
@@ -36,7 +37,7 @@ export default function Header() {
                 leave="duration-100 ease-in"
                 leaveFrom="opacity-100 scale-100"
                 leaveTo="opacity-0 scale-95"
-            >
+                >
                 <Popover.Panel
                     focus
                     className="absolute inset-x-0 top-0 origin-top-right transform p-2 transition md:hidden"
@@ -89,7 +90,7 @@ export default function Header() {
                 </Popover.Panel>
             </Transition>
 
-                <div class="hidden sm:block items-center h-full ">
+                <div class="hidden sm:block h-full">
                     <a href='Anastasiia_Polubynska_CV.pdf'
                     target="_blank"
                     rel="noreferrer"
@@ -103,6 +104,7 @@ export default function Header() {
             </div>
         </Popover>
 
+    </div>
     )
 }
 
