@@ -10,7 +10,7 @@ export default function Logos() {
 <section id="Logos">
     <div className="flex flex-col items-center justify-center">
 
-        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-5 gap-2 md:gap-6">
+        <div className="max-w-screen-xl w-full grid grid-cols-4 grid-rows-5 gap-2 md:gap-6">
             
             <div className="col-span-2 row-span-2">
                     <Popup trigger={
@@ -330,7 +330,7 @@ export default function Logos() {
         </div>
         
 
-        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-4 gap-2 md:gap-6 pt-2 md:pt-6">
+        <div className="max-w-screen-xl w-full grid grid-cols-4 grid-rows-4 gap-2 md:gap-6 pt-2 md:pt-6">
             <div className="col-span-2 row-span-2">
                 <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
@@ -583,7 +583,7 @@ export default function Logos() {
         </div>
 
 
-        <div className="max-w-screen-lg grid grid-cols-4 grid-rows-4 gap-2 md:gap-6 pt-2 md:pt-6">
+        <div className="max-w-screen-xl w-full grid grid-cols-4 grid-rows-4 gap-2 md:gap-6 pt-2 md:pt-6">
             <div>
                 <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">

@@ -11,7 +11,7 @@ export default function Content() {
 <section id="Logos">
     <div className="flex flex-col items-center justify-center">
 
-        <div className="max-w-screen-lg grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="max-w-screen-xl w-full grid grid-cols-1 md:grid-cols-2 gap-4">
             
             <div className="">
                 <div className="h-full relative rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
