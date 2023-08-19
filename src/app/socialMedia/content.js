@@ -72,7 +72,7 @@ export default function Content() {
             <div className="">
                 <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                     <div className="pt-4 pl-4 lg:pt-8 lg:pl-8 flex space-x-4 lg:space-x-8">
-                        <a target="_blank"  href="https://www.facebook.com/permalink.php?story_fbid=pfbid0Z7Lwzg4Pnya6rHrB4wHModd4MrgXAKWkPWs7sKKdox9wv42sDXiZQDuQXHJdGR8kl&id=102730924982296" >
+                        <a target="_blank"  href="https://www.facebook.com/profile.php?id=100063615454071" >
                             <svg class="h-5 w-5" viewBox="0 0 10 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M2.62008 5.9999H0.370117V8.99984H2.62008V17.9997H6.37001V8.99984H9.06997L9.36996 5.9999H6.37001V4.72492C6.37001 4.04993 6.52001 3.74993 7.195 3.74993H9.36996V0H6.52001C3.82006 0 2.62008 1.19998 2.62008 3.44994V5.9999Z" fill="#565656"/>
                             </svg>
