@@ -26,7 +26,7 @@ export default function Content() {
                         modal
                     >
                     {close => (
-                        <div className="w-full overflow-auto relative justify-center items-center bg-white">
+                        <div className="w-full overflow-auto relative flex justify-center items-center bg-white">
                             <div className="hover:cursor-pointer absolute top-1 right-1 md:top-4 md:right-4" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
@@ -34,7 +34,7 @@ export default function Content() {
                             </div>
                             <img
                             src="./Webpages/Webpage1.png"
-                            className="p-1 md:p-8 bg-white"
+                            className="p-1 md:p-8 md:w-8/12 bg-white"
                             alt="..." />
                         </div>
                     )}
@@ -47,7 +47,7 @@ export default function Content() {
                     <div className="h-full flex items-center justify-center">
                         <img
                         src="./Webpages/Webpage2.png"
-                        className="p-1 md:p-8"
+                        className="p-4 md:p-8"
                         alt="..." />
                     </div>
                     <div className="absolute z-40 top-2 right-4 md:top-4 md:right-4 flex space-x-4">
@@ -93,7 +93,7 @@ export default function Content() {
             >
             
             {close => (
-                <div className="w-full relative justify-center items-center bg-white">
+                <div className="w-full relative flex justify-center items-center bg-white">
                     <div className="hover:cursor-pointer absolute top-1 right-1 md:top-4 md:right-4" onClick={close}>
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                             <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
@@ -101,7 +101,7 @@ export default function Content() {
                     </div>
                     <img
                     src="./Webpages/Webpage4.png"
-                    className="p-1 md:p-8 bg-white"
+                    className="p-1 md:p-8 md:w-8/12 bg-white"
                     alt="..." />
                 </div>
             )}
@@ -142,7 +142,7 @@ export default function Content() {
                     >
 
                     {close => (
-                        <div className="w-full relative justify-center items-center bg-white">
+                        <div className="w-full relative flex justify-center items-center bg-white">
                             <div className="hover:cursor-pointer absolute top-1 right-1 md:top-4 md:right-4" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
@@ -150,7 +150,7 @@ export default function Content() {
                             </div>
                             <img
                             src="./Webpages/Webpage6.png"
-                            className="p-1 md:p-8 bg-white"
+                            className="p-1 md:p-8 md:w-8/12 bg-white"
                             alt="..." />
                         </div>
                     )}
@@ -240,7 +240,7 @@ export default function Content() {
                     >
 
                     {close => (
-                        <div className="w-full relative justify-center items-center bg-white">
+                        <div className="w-full relative flex justify-center items-center bg-white">
                             <div className="hover:cursor-pointer absolute top-1 right-1 md:top-4 md:right-4" onClick={close}>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/>
@@ -248,7 +248,7 @@ export default function Content() {
                             </div>
                             <img
                             src="./Webpages/Webpage10.png"
-                            className="p-1 md:p-8 bg-white"
+                            className="p-1 md:p-8 md:w-8/12 bg-white"
                             alt="..." />
                         </div>
                     )}

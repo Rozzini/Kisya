@@ -14,7 +14,8 @@ export default function Header() {
                     AP
                 </a>
                 <nav class="hidden sm:flex flex-wraph-full  items-center justify-center pl-24 text-base md:ml-auto md:mr-auto">
-                    <a href="/" class="mr-5 font-medium hover:text-black">HOME</a>
+                    <a href="/" class="mr-5 font-medium hover:text-black">Home</a>
+                    <a href="#Contact" class="font-medium hover:text-black">Contact</a>
                 </nav>
 
                 <div className="flex grow item-center justify-end sm:hidden">
@@ -59,7 +60,10 @@ export default function Header() {
                                 <div className="mt-6">
                                     <nav className="grid gap-y-6">
                                         <Popover.Button>
-                                        <a href="/" class="font-medium hover:text-black">HOME</a>
+                                        <a href="/" class="font-medium hover:text-black">Home</a>
+                                        </Popover.Button>
+                                        <Popover.Button>
+                                        <a href="#Contact" class="font-medium hover:text-black">Contact</a>
                                         </Popover.Button>
                                     </nav>
                                 </div>
