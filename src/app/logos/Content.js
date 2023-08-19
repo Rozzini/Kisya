@@ -10,7 +10,7 @@ export default function Logos() {
 <section id="Logos">
     <div className="flex flex-col items-center justify-center">
 
-        <div className="max-w-screen-xl w-full grid grid-cols-4 grid-rows-5 gap-2 md:gap-6">
+        <div className="max-w-screen-2xl w-full grid grid-cols-4 grid-rows-5 gap-4 md:gap-8">
             
             <div className="col-span-2 row-span-2">
                     <Popup trigger={
@@ -18,7 +18,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo1.png"
-                                className="p-2 md:p-6 w-64"
+                                className="w-48 md:w-64 lg:w-80"
                                 alt="..." />
                             </div>
                             
@@ -50,7 +50,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo2.png"
-                                className="p-2 md:p-6 w-36 sm:w-56"
+                                className="w-36 md:w-48 lg:w-64"
                                 alt="..." />
                             </div>
                             
@@ -82,7 +82,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo3.png"
-                                className="p-6 w-52"
+                                className="w-36 md:w-28 lg:w-48"
                                 alt="..." />
                             </div>
                         </div>}
@@ -144,7 +144,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo5.png"
-                                className="p-10 w-52"
+                                className="w-36 md:w-48 lg:w-64"
                                 alt="..." />
                             </div>
                             
@@ -269,7 +269,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo9.png"
-                                className="p-6 w-32"
+                                className="w-24 md:w-36 lg:w-52"
                                 alt="..." />
                             </div>
                             
@@ -301,7 +301,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo10.png"
-                                className="p-6 w-32"
+                                className="w-24 md:w-36 lg:w-52"
                                 alt="..." />
                             </div>
                             
@@ -330,14 +330,14 @@ export default function Logos() {
         </div>
         
 
-        <div className="max-w-screen-xl w-full grid grid-cols-4 grid-rows-4 gap-2 md:gap-6 pt-2 md:pt-6">
+        <div className="max-w-screen-2xl w-full grid grid-cols-4 grid-rows-4 gap-4 md:gap-8 pt-4 md:pt-8">
             <div className="col-span-2 row-span-2">
                 <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo11.png"
-                                className="p-12 w-56"
+                                className="w-24 md:w-36 lg:w-52"
                                 alt="..." />
                             </div>
                         </div>}
@@ -368,7 +368,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo12.png"
-                                className="p-12 w-60"
+                                className="w-32 md:w-56 lg:w-72"
                                 alt="..." />
                             </div>
                         </div>}
@@ -399,7 +399,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo13.png"
-                                className="p-4 md:p-14 lg:p-20 w-14 md:w-64"
+                                className="w-10 md:w-12 lg:w-14"
                                 alt="..." />
                             </div>
                         </div>}
@@ -430,7 +430,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo14.png"
-                                className="p-4 md:p-14 lg:p-20 w-14 md:w-64"
+                                className="w-10 md:w-12 lg:w-14"
                                 alt="..." />
                             </div>
                         </div>}
@@ -461,7 +461,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo15.png"
-                                className="p-4 md:p-14 lg:p-20 w-14 md:w-64"
+                                className="w-10 md:w-12 lg:w-14"
                                 alt="..." />
                             </div>
                         </div>}
@@ -492,7 +492,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo16.png"
-                                className="p-4 md:p-8 lg:p-20 w-56"
+                                className="w-10 md:w-12 lg:w-14"
                                 alt="..." />
                             </div>
                             
@@ -556,7 +556,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo18.png"
-                                className="p-8 w-56"
+                                className="w-24 md:w-36 lg:w-52"
                                 alt="..." />
                             </div>
                         </div>}
@@ -583,7 +583,7 @@ export default function Logos() {
         </div>
 
 
-        <div className="max-w-screen-xl w-full grid grid-cols-4 grid-rows-4 gap-2 md:gap-6 pt-2 md:pt-6">
+        <div className="max-w-screen-2xl w-full grid grid-cols-4 grid-rows-4 gap-4 md:gap-8 pt-4 md:pt-8">
             <div>
                 <Popup trigger={
                         <div className="h-full rounded border border-[#9d9d9d] hover:border-2 hover:border-[#000000] ">
@@ -745,7 +745,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo24.png"
-                                className="p-4 w-32"
+                                className="w-36 md:w-48 lg:w-64"
                                 alt="..." />
                             </div>
                             
@@ -777,7 +777,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo25.png"
-                                className="p-7 w-32"
+                                className="w-10 md:w-12 lg:w-14"
                                 alt="..." />
                             </div>
                         </div>}
@@ -808,7 +808,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo26.png"
-                                className="p-7 w-32"
+                                className="w-10 md:w-12 lg:w-14"
                                 alt="..." />
                             </div>
                         </div>}
@@ -901,7 +901,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo29.png"
-                                className="p-6 w-56"
+                                className="w-36 md:w-48 lg:w-64"
                                 alt="..." />
                             </div>
                         </div>}
