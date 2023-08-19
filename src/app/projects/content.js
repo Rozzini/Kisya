@@ -19,7 +19,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                   src="/projects/Project1.png"
-                                className="p-1 md:p-8"
+                                className="p-8 md:p-12 lg:p-32"
                                 alt="..." />
                             </div>
                         </div>}
@@ -114,7 +114,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                   src="/projects/Project4.png"
-                                className="p-1 md:p-8"
+                                  className="p-8 md:p-12 lg:p-32"
                                 alt="..." />
                             </div>
                         </div>}
@@ -176,7 +176,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                   src="/projects/Project6.png"
-                                className="p-1 md:p-8"
+                                  className="p-4 md:p-8 lg:p-16"
                                 alt="..." />
                             </div>
                         </div>}
@@ -207,7 +207,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                   src="/projects/Project7.png"
-                                className="p-1 md:p-8"
+                                  className="p-4 md:p-8 lg:p-16"
                                 alt="..." />
                             </div>
                         </div>}
@@ -238,7 +238,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                   src="/projects/Project8.png"
-                                className="p-1 md:p-8"
+                                  className="p-4 md:p-8 lg:p-16"
                                 alt="..." />
                             </div>
                         </div>}

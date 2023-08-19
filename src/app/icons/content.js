@@ -11,7 +11,7 @@ export default function Content() {
 <section id="Logos">
     <div className="flex flex-col items-center justify-center">
 
-        <div className="max-w-screen-xl w-full grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="max-w-screen-2xl w-full grid grid-cols-2 gap-4 md:gap-8">
 
 
                 <div>
@@ -20,7 +20,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/Icons/Icons1.png"
-                                className="p-14"
+                                className="p-12 md:p-16 lg:p-20 xl:p-40"
                                 alt="..." />
                             </div>
                         </div>}
@@ -51,7 +51,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/Icons/Icons2.png"
-                                className="p-14"
+                                className="p-12 md:p-16 lg:p-20 xl:p-40"
                                 alt="..." />
                             </div>
                         </div>}
@@ -82,7 +82,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/Icons/Icons3.png"
-                                className="p-8 md:p-12"
+                                className="p-12 md:p-16 lg:p-20 xl:p-40"
                                 alt="..." />
                             </div>
                         </div>}
@@ -113,7 +113,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/Icons/Icons4.png"
-                                className="p-14"
+                                className="p-12 md:p-16 lg:p-20 xl:p-40"
                                 alt="..." />
                             </div>
                         </div>}
@@ -144,7 +144,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/Icons/Icons5.png"
-                                className="p-14"
+                                className="p-12 md:p-16 lg:p-20 xl:p-40"
                                 alt="..." />
                             </div>
                         </div>}
@@ -175,7 +175,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/Icons/Icons6.png"
-                                className="p-14"
+                                className="p-12 md:p-16 lg:p-20 xl:p-40"
                                 alt="..." />
                             </div>
                         </div>}
