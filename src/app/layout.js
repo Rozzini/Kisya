@@ -4,9 +4,27 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'UI/UX DESIGNER',
-  description: '^_^',
-  images: 'https://www.one8two8.com/logos/logo11.png',
+    openGraph: {
+    title: 'UI/UX DESIGNER',
+    description: '^_^',
+    url: 'https://www.one8two8.com',
+    siteName: 'one8two8',
+    images: [
+      {
+        url: 'https://www.one8two8.com/logos/logo13.png',
+        width: 800,
+        height: 600,
+      },
+      {
+        url: 'https://www.one8two8.com/logos/logo11.png',
+        width: 1800,
+        height: 1600,
+        alt: 'My custom alt',
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
 }
 
 export default function RootLayout({ children }) {
