@@ -6,9 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'UI/UX DESIGNER',
   description: '^_^',
-  openGraph: {
-    images: 'https://www.one8two8.com/logos/logo11.png',
-  },
+  images: 'https://www.one8two8.com/logos/logo11.png',
 }
 
 export default function RootLayout({ children }) {
