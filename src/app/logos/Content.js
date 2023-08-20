@@ -18,7 +18,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo1.png"
-                                className="w-48 md:w-64 lg:w-80"
+                                className="p-2 md:p-0 w-48 md:w-64 lg:w-80"
                                 alt="..." />
                             </div>
                             
@@ -50,7 +50,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo2.png"
-                                className="w-36 md:w-48 lg:w-64"
+                                className="p-2 md:p-0 w-36 md:w-48 lg:w-64"
                                 alt="..." />
                             </div>
                             
@@ -82,7 +82,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo3.png"
-                                className="w-36 md:w-28 lg:w-48"
+                                className="p-1 md:p-0 w-36 md:w-28 lg:w-48"
                                 alt="..." />
                             </div>
                         </div>}
@@ -113,7 +113,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo4.png"
-                                className="p-6 w-52"
+                                className="p-2 md:p-6 w-52"
                                 alt="..." />
                             </div>
                         </div>}
@@ -144,7 +144,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo5.png"
-                                className="w-36 md:w-48 lg:w-64"
+                                className="p-2 md:p-0 w-36 md:w-48 lg:w-64"
                                 alt="..." />
                             </div>
                             
@@ -745,7 +745,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo24.png"
-                                className="w-36 md:w-48 lg:w-64"
+                                className="p-2 md:p-0 w-36 md:w-48 lg:w-64"
                                 alt="..." />
                             </div>
                             
@@ -901,7 +901,7 @@ export default function Logos() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/logos/logo29.png"
-                                className="w-36 md:w-48 lg:w-64"
+                                className="p-2 md:p-0 w-36 md:w-48 lg:w-64"
                                 alt="..." />
                             </div>
                         </div>}

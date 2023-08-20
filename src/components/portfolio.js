@@ -73,7 +73,7 @@ export default function Portfolio() {
                   <div className="h-full flex items-center justify-center">
                     <img
                       src="/home/Icons.png"
-                      className="p-6 md:p-12"
+                      className="p-3 sm:p-6 md:p-12"
                       alt="..." />
                   </div>
                   <div className="absolute top-2 left-4 md:top-4 md:right-4 flex">

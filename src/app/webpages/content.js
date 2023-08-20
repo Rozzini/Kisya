@@ -230,7 +230,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="./Webpages/Webpage10.png"
-                                className="pt-12 px-12"
+                                className="p-4 md:pt-12 md:px-12"
                                 alt="..." />
                             </div>
                         </div>}
