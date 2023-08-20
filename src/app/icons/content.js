@@ -20,7 +20,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/Icons/Icons1.png"
-                                className="p-12 md:p-16 lg:p-20 xl:p-40"
+                                className="p-8 sm:p-12 md:p-16 lg:p-20 xl:p-40"
                                 alt="..." />
                             </div>
                         </div>}
@@ -51,7 +51,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/Icons/Icons2.png"
-                                className="p-12 md:p-16 lg:p-20 xl:p-40"
+                                className="p-8 sm:p-12 md:p-16 lg:p-20 xl:p-40"
                                 alt="..." />
                             </div>
                         </div>}
@@ -113,7 +113,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/Icons/Icons4.png"
-                                className="p-16 md:p-20 lg:p-28 xl:p-52"
+                                className="p-8 sm:p-12 md:p-20 lg:p-28 xl:p-52"
                                 alt="..." />
                             </div>
                         </div>}
@@ -144,7 +144,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/Icons/Icons5.png"
-                                className="p-16 md:p-20 lg:p-28 xl:p-52"
+                                className="p-8 sm:p-12 md:p-20 lg:p-28 xl:p-52"
                                 alt="..." />
                             </div>
                         </div>}
@@ -175,7 +175,7 @@ export default function Content() {
                             <div className="h-full flex items-center justify-center">
                                 <img
                                 src="/Icons/Icons6.png"
-                                className="p-12 md:p-16 lg:p-20 xl:p-40"
+                                className="p-8 sm:p-12 md:p-16 lg:p-20 xl:p-40"
                                 alt="..." />
                             </div>
                         </div>}
