@@ -3,7 +3,7 @@ export default function Hero() {
 <section id="About" >
     <div className="w-full flex justify-center">
         <div className="max-w-screen-2xl w-full text-left py-12 md:py-20">
-            <h1 className="text-4xl font-bold tracking-tight text-black sm:text-7xl">ANASTASIIA POLUBYNSKA</h1>
+            <h1 className="text-4xl font-bold tracking-tight text-black sm:text-7xl">ANARASP</h1>
             <h1 className="text-4xl font-bold tracking-tight text-black sm:text-7xl">UI/UX DESIGNER</h1>
             <p className="mt-6 text-xl md:text-2xl leading-8 text-gray-600">
             I don't try to follow trends, I create them. The design process as a puzzle game.
