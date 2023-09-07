@@ -6,9 +6,8 @@ export default function Hero() {
             <h1 className="text-4xl font-bold tracking-tight text-black sm:text-7xl">ANARASP</h1>
             <h1 className="text-4xl font-bold tracking-tight text-black sm:text-7xl">UI/UX DESIGNER</h1>
             <p className="mt-6 text-xl md:text-2xl leading-8 text-gray-600">
-            I don't try to follow trends, I create them. The design process as a puzzle game.
-            Taking different trends from all the categories I put them together as pieces of the puzzle.
-            I show you another world through design.</p>
+            With her background in graphic, digital and UX design and with 5 years of experience, Anastasiia is a strong advocate of clean, simple and high quality design capable to tackle human behaviour challenges in modern UI.
+She enjoys blending emotions and pragmatic thinking into her work always focused to deliver highest standard results even under tight deadlines.</p>
         </div>
     </div>
 </section>
