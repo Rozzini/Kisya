@@ -6,8 +6,8 @@ export default function Hero() {
             <h1 className="text-4xl font-bold tracking-tight text-black sm:text-7xl">ANARASP</h1>
             <h1 className="text-4xl font-bold tracking-tight text-black sm:text-7xl">UI/UX DESIGNER</h1>
             <p className="mt-6 text-xl md:text-2xl leading-8 text-gray-600">
-            With her background in graphic, digital and UX design and with 5 years of experience, Anastasiia is a strong advocate of clean, simple and high quality design capable to tackle human behaviour challenges in modern UI.
-She enjoys blending emotions and pragmatic thinking into her work always focused to deliver highest standard results even under tight deadlines.</p>
+            With my background in graphic, digital and UX design and with 5 years of experience, I am a strong advocate of clean, simple and high quality design capable to tackle human behaviour challenges in modern UI.
+I enjoy blending emotions and pragmatic thinking into my work always focused to deliver highest standard results even under tight deadlines.</p>
         </div>
     </div>
 </section>
